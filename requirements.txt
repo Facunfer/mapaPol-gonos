@@ -1,0 +1,9 @@
+folium==0.18.0
+geopandas==1.0.1
+numpy==2.2.5
+pandas==2.2.3
+Requests==2.32.3
+scikit_learn==1.6.1
+Shapely==2.1.0
+streamlit==1.39.0
+streamlit_folium==0.24.0
